@@ -1,0 +1,3 @@
+id|name|viewHistory|purchaseHistory
+1|Alice|1,2,3|1,3
+2|Bob|2|2

@@ -1,0 +1,8 @@
+1|Laptop Pro 15|Electronics|1299.99|0|0
+2|Wireless Mouse|Electronics|29.99|0|0
+3|Running Shoes|Sports|89.99|0|0
+4|Python Book|Books|39.99|0|0
+5|Coffee Maker|Kitchen|59.99|0|0
+6|Yoga Mat|Sports|25.99|0|0
+7|Noise Headphones|Electronics|199.99|0|0
+8|C++ Book|Books|44.99|0|0

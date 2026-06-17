@@ -1,0 +1,2 @@
+orderId|userId|totalPrice|timestamp|items
+1|1|1019.98|2024-01-15|1:1,2:2
